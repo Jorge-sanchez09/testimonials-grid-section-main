@@ -100,6 +100,10 @@ body{
     .card:last-child{
         grid-column: 1 / -1;
     }
+
+    .card--violet{
+        background-position: top right 20%;
+    }
 }
 
 @media screen and (min-width: 1120px){
